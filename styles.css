@@ -362,6 +362,8 @@ border: none;
 .img3.active{
     display: block;
 }
+.single-dot:focus{
+    outline:none;}
 @media(max-width:900px){
     li.suggest-me{
         display: none;
